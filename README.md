@@ -1,7 +1,7 @@
-# Course-CTF1  
+# Simple-Crypto-CTF  
 ### by Michelle Sun  
 
-Welcome to the Course-CTF1 repository. This project contains several cryptographic challenges, each accompanied by detailed explanations and scripts to help solve them. 
+Welcome to the Simple-Crypto-CTF repository. This project contains several cryptographic challenges, each accompanied by detailed explanations and scripts to help solve them. 
 
 For comprehensive documentation on each challenge, please refer to the markdown files located in the `WriteUp` folder.
 
@@ -43,8 +43,8 @@ For comprehensive documentation on each challenge, please refer to the markdown 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Course-CTF1.git
-   cd Course-CTF1
+   git clone https://github.com/mlxs/Simple-Crypto-CTF.git
+   cd Simple-Crypto-CTF
    ```
 
 2. Make sure you have Python installed. The scripts use common libraries such as sys and binascii, which should be available by default in Python installations.
