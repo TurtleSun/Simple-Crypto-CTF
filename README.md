@@ -1,7 +1,7 @@
-# Simple-Crypto-CTF  
+# Simple-Crypto-WriteUp 
 ### by Michelle Sun  
 
-Welcome to the Simple-Crypto-CTF repository. This project contains several cryptographic challenges, each accompanied by detailed explanations and scripts to help solve them. 
+Welcome to the Simple-Crypto-WriteUp repository. This write-up contains several cryptographic challenges, each accompanied by detailed explanations and scripts to help solve them. 
 
 For comprehensive documentation on each challenge, please refer to the markdown files located in the `WriteUp` folder.
 
@@ -43,8 +43,8 @@ For comprehensive documentation on each challenge, please refer to the markdown 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mlxs/Simple-Crypto-CTF.git
-   cd Simple-Crypto-CTF
+   git clone https://github.com/mlxs/Simple-Crypto-WriteUp.git
+   cd Simple-Crypto-WriteUp
    ```
 
 2. Make sure you have Python installed. The scripts use common libraries such as sys and binascii, which should be available by default in Python installations.
